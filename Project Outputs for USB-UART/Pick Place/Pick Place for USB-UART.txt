@@ -1,0 +1,28 @@
+Altium Designer Pick and Place Locations
+C:\altium workspace\USB-UART\Project Outputs for USB-UART\Pick Place\Pick Place for USB-UART.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       15.12.21
+Time:       17:52
+Revision:   8ae1bfb7f0c3ec89c553636fac83664f9c5fa6ce
+Variant:    No variations
+Units used: mm
+
+Designator Comment                  Layer       Footprint                                                       Center-X(mm) Center-Y(mm) Rotation Description                                                                              
+P2         "Side Header 4"          TopLayer    HDR1X4                                                          93.2180      43.3070      270      "Header, 4-Pin"                                                                          
+R6         RC0603FR-071KL           TopLayer    J1-0603                                                         82.0420      38.2270      0        "1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film" 
+U1         CP2102N-A01-GQFN28       TopLayer    QFN50P500X500X80-29N                                            85.2170      43.3070      0        "Ic Bridge Usb To Uart 28qfn"                                                            
+T2         BC847                    TopLayer    SOT23                                                           89.9160      46.7360      0        "<b>NPN TRANSISTOR</b>"                                                                  
+T1         BC847                    TopLayer    SOT23                                                           89.9770      40.1750      180      "<b>NPN TRANSISTOR</b>"                                                                  
+R5         RC0603FR-074K7L          TopLayer    J1-0603                                                         83.8200      39.4970      0        "4.7 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thick Film"                  
+R4         RC0603FR-0710KL          TopLayer    J1-0603                                                         88.9000      43.4340      270      "10 kOhms 1 0.1 W 1 10 W Chip Resistor 0603 1608 Metric Thick Film"                      
+R3         RC0603FR-07330RL         TopLayer    J1-0603                                                         84.4550      48.0060      270      "330 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thick Film"                   
+R2         RC0603FR-07330RL         TopLayer    J1-0603                                                         85.9790      48.0060      270      "330 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thick Film"                   
+R1         RC0603FR-0710KL          TopLayer    J1-0603                                                         90.9320      43.4340      90       "10 kOhms 1 0.1 W 1 10 W Chip Resistor 0603 1608 Metric Thick Film"                      
+P1         "USB type A"             TopLayer    USB_type_A                                                      73.4068      43.3030      90       "USB - micro A"                                                                          
+ESP-PROG   BM06B-GHS-TBT(LF)(SN)(N) BottomLayer *JST_BM06B-GHS-TBT(LF)(SN)(N)_BM06B-GHS-TBT(LF)(SN)(N)(Primary) 97.5120      43.3070      270      "Conn Header Gh Top 6pos 1.25mm"                                                         
+D1         0603-LED-BLUE            TopLayer    *LEDM1608X80_LTE-C1906R-14(Primary)                             84.8360      38.2270      180      "LED IrLED Chip LED 2-Pin SMD T/R"                                                       
+C2         GX035C104MAT2-500        TopLayer    *CAPC1608X90                                                    80.8990      40.5130      270      "Cap Thin Film 0.1uf 50v 0603"                                                           
+C1         GRM188R71C105KA12D       TopLayer    CAPC1608X90N                                                    80.8990      43.4340      270      "SMD Capacitor X7R(EIA) with Capacitance: 1.0uF Tol. 10%. Rated Voltage: 16Vdc"          
